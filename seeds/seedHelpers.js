@@ -1,0 +1,45 @@
+module.exports.descriptors = [
+    'Crown',
+    'Emerald',
+    'Bliss',
+    'Sunset',
+    'Beacon',
+    'Comfort',
+    'Aquafina',
+    'Budget',
+    'American',
+    'Indian',
+    'European',
+    'Japanese',
+    'Chinese',
+    'Relax',
+    'Sapphires',
+    'Bayshore',
+    'The Glory',
+    'Spring',
+    'The Orchard',
+    'Etiquette',
+    'Cape Grace'
+]
+
+module.exports.places = [
+    'Hotel',
+    'Resort',
+    'Spa',
+    'Villa',
+    'View',
+    'Cottage',
+    'Private',
+    'Estate',
+    'Suite',
+    'Inn',
+    'Elite',
+    'Motel',
+    'Grand',
+    'Galaxy',
+    'Luxury',
+    'House',
+    'Castle',
+    'Adobe'
+]
+
