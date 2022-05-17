@@ -28,3 +28,36 @@ Deployed using Heroku, with MongoDB Atlas database.
 - Express.js
 - MongoDB
 
+## Screenshots
+
+### Hotels
+
+![](/Screenshots/hotelsall.png)
+
+### Hotel Details
+
+![](/Screenshots/image%20carousel.gif)
+
+### Hotel Review Option 
+
+(Available only when logged in)
+
+![](/Screenshots/review.png)
+
+### Edit Hotel 
+
+(Available only when logged in)
+
+![](/Screenshots/edit%20hotel.png)
+
+### Add Hotel 
+
+(Available only when logged in)
+
+![](/Screenshots/new%20hotel.png)
+
+### Register
+![](/Screenshots/register.png)
+
+### Login 
+![](/Screenshots/login.png)
