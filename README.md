@@ -17,8 +17,8 @@ A full-stack web app that enables users to find hotels and check their details i
 - Ratings 
 - Reviews 
 - Displaying hotels in form of cluster maps based on geo locations 
-- Authentication, 
-- Authorization & 
+- Authentication
+- Authorization  
 - Effectively deals with common security issues.
 
 ## Tech Stack
