@@ -1,15 +1,13 @@
 # Hotel Arena
 
-A full-stack web app that enables users to search hotels and check their details like location, price, reviews.
+A full-stack web app that enables users to find hotels and check their details including photographs, location, price, ratings and reviews, being deployed using Heroku, with MongoDB Atlas database.
 
 ## Live Demo : [Hotel Arena](https://the-hotel-arena.herokuapp.com/)
 
 ![](/Images/Web.png)
 
-Deployed using Heroku, with MongoDB Atlas database.
- 
 
-### Features
+## Features
 - Secure Login/Register for Admins (Hotel Owners) 
 - Secure Login/Register for Users
 - Create Hotel details (Admin feature)
@@ -19,9 +17,11 @@ Deployed using Heroku, with MongoDB Atlas database.
 - Ratings 
 - Reviews 
 - Displaying hotels in form of cluster maps based on geo locations 
-- Sessions/Cookies
+- Authentication, 
+- Authorization & 
+- Effectively deals with common security issues.
 
-### Tech Stack
+## Tech Stack
 - HTML5 (EJS)
 - CSS (Bootstrap)
 - Node.js
