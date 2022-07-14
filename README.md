@@ -11,11 +11,19 @@ A full-stack web app that enables users to find hotels and check their details i
 - Secure Login/Register for Admins (Hotel Owners) 
 - Secure Login/Register for Users
 - Create Hotel details (Admin feature)
-- Display Hotel details 
+- Display Hotel details :
+    - Name
+    - Photographs
+    - Description
+    - Price
+    - Location
+    - Map having pin on the hotel location and showing it's name as pop up.
+    - Reviews
+    - Ratings
 - Modify Hotel details (Admin feature)
 - Delete Hotel details (Admin feature)
-- Ratings 
-- Reviews 
+- Add Ratings 
+- Add Reviews 
 - Displaying hotels in form of cluster maps based on geo locations 
 - Authentication
 - Authorization  
